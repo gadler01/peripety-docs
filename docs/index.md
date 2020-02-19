@@ -1,10 +1,3 @@
-# Welcome to Peripety
+# Welcome to Peripety Docs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+This is webpage contains information for [app.vsolpro.com](app.vsolpro.com). For instructions on how to complete an audit go to the [Audit Steps](audit-steps/racks.md) section.
