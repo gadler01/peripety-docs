@@ -1,0 +1,18 @@
+site_name: Peripety
+theme: readthedocs
+
+pages:
+    - Introduction: 'index.md'
+    - Audit Steps:
+        - Racks: 'audit-steps/racks.md'
+        - Devices: 'audit-steps/devices.md'
+        - Manufacturer Library: 'audit-steps/manufacturers.md'
+        - Device Type Library: 'audit-steps/device-types.md'
+        - Cables: 'audit-steps/cables.md'
+    - Field Definitions:
+      - Site: 'field-definitions/site.md'
+      - Rack: 'field-definitions/rack.md'
+      - Device: 'field-definitions/device.md'
+
+markdown_extensions:
+    - admonition:
