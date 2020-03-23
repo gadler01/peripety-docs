@@ -3,7 +3,7 @@ This document is provided to assist in identifying cable types and connectors as
 ![Fiber Cable Ends](../img/fiber_optic_connector2.png)
 
 ##Further Reading: 
-[WikipediaOptical fiber connector - Wikipedia] (https://en.wikipedia.org/wiki/Optical_fiber_connector)
+[Optical fiber connector - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber_connector)
 
 
 
