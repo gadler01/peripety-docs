@@ -1,8 +1,8 @@
-#Connectors
+# Connectors
 
 This page provides links and examples of connectors.
 
-##SFP Examples
+## SFP Examples
 
 ![SFPs](../img/sfps.jpg)
 
