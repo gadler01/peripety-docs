@@ -6,6 +6,8 @@ This page provides links and examples of connectors.
 
 ![SFPs](../img/sfps.jpg)
 
+## Further reading:
+
 [Wikipedia - SFP ](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver)
 
 [Cables To Go Tranceivers](https://www.cablestogo.com/category/data-com-transceivers)
