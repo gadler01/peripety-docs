@@ -8,6 +8,8 @@ This page provides links and examples of connectors.
 
 ## Other Examples:
 
+## InfiniBand (IB)
+
 ![Infiniband](../img/InfiniBand.jpg)
 
 InfiniBand (IB) is a computer networking communications standard used in high-performance computing that features very high throughput and very low latency. It is used for data interconnect both among and within computers. InfiniBand is also used as either a direct or switched interconnect between servers and storage systems, as well as an interconnect between storage systems.
@@ -15,6 +17,8 @@ InfiniBand (IB) is a computer networking communications standard used in high-pe
 As of 2014, it was the most commonly used interconnect in supercomputers. Mellanox and Intel manufacture InfiniBand host bus adapters and network switches, and, in February 2016, it was reported that Oracle Corporation had engineered its own InfiniBand switch units and server adapter chips for use in its own product lines and by third parties. Mellanox IB cards are available for Solaris, FreeBSD, RHEL, SLES, Windows, HP-UX, VMware ESX, and AIX. It is designed to be scalable and uses a switched fabric network topology.
 
 As an interconnect, IB competes with Ethernet, Fibre Channel, and Intel Omni-Path.
+
+## Cisco StackWise
 
 ![Cisco Stacking Cable](../img/CiscoT1Stackwise.jpg)
 
