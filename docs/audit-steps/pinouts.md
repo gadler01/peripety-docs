@@ -4,7 +4,7 @@
 
 This document is provided to assist in identifying cable pinouts for constructing cables and connectors.
 
-![InfoBlox](../img/Infoblox%20-%20Console%20DB9%20pin-out_%20(002).jpg)
+![InfoBlox](../img/InfobloxPinouts.jpg)
 
  
 ##Further Reading:
