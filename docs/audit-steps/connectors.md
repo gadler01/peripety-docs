@@ -16,7 +16,7 @@ As of 2014, it was the most commonly used interconnect in supercomputers. Mellan
 
 As an interconnect, IB competes with Ethernet, Fibre Channel, and Intel Omni-Path.
 
-![Cisco Stacking Cable]9../img/CiscoT1Stackwise.jpg)
+![Cisco Stacking Cable](../img/CiscoT1Stackwise.jpg)
 
 Cisco’s access layer switches used to be all separate physical switches where we use Ethernet cables for connectivity between the switches. Cisco Stackwise changed this, it allows us to turn multiple physical switches into a single logical switch.
 
