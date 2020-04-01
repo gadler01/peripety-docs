@@ -9,10 +9,10 @@ pages:
         - Manufacturer Library: 'audit-steps/manufacturers.md'
         - Device Type Library: 'audit-steps/device-types.md'
         - Cables: 'audit-steps/cables.md'
-     - Cable and Connector Information:   
+    - Cable and Connector Information:   
         - Cable Identification: 'audit-steps/cable_definitions.md'
         - Cable Pinouts: 'audit-steps/pinouts.md'
-     - Field Definitions:
+    - Field Definitions:
       - Site: 'field-definitions/site.md'
       - Rack: 'field-definitions/rack.md'
       - Device: 'field-definitions/device.md'
