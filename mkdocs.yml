@@ -18,6 +18,7 @@ pages:
     
     - Connector Identification:
         - Connectors: 'audit-steps/connectors.md'
+        - Power: 'audit-steps/power.md'
         
     - Field Definitions:
     
