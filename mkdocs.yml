@@ -5,7 +5,7 @@ pages:
     - Introduction: 'index.md'
     
     - Audit Steps:
-        - Rack Groups: 'audit-steps/sitegroup.md'
+        - Sites and Rack Groups: 'audit-steps/sitegroup.md'
         - Racks: 'audit-steps/racks.md'
         - Devices: 'audit-steps/devices.md'
         - Manufacturer Library: 'audit-steps/manufacturers.md'
