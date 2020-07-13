@@ -7,7 +7,7 @@ pages:
     - Audit Steps:
     
         - Racks: 'audit-steps/racks.md'
-        -Rack Groups: 'audit-steps/groupadd.md'
+           - Rack Groups: 'audit-steps/groupadd.md'
         - Devices: 'audit-steps/devices.md'
         - Manufacturer Library: 'audit-steps/manufacturers.md'
         - Device Type Library: 'audit-steps/device-types.md'
