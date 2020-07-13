@@ -10,8 +10,15 @@ Sites are data center facilities which are often multi-tenanted.  Tenants are of
 
 ## Add rack group as follows:
 
-- ![Action to add group](../img/addgrpaction.png "Adding a Rack Group")
+![Action to add group](../img/addgrpaction.png "Adding a Rack Group")
 
-## Add Something Else
-Add Something here
-![Add Picture](../img/picture.png "Add a picture")
+## Assign Racks To Group
+Add existing racks to groups. If this is initial site setup racks can be added to the newly created group by clicking the Add or Import buttons and supplying the approriate infrmation.  If the racks already exist, they need to be assigned to the group by editing their group assignment.
+
+![Add Rack to Group](../img/assignracks.png "Add racks to groups")
+
+## Added Rack Groups
+
+Result of rack group addition and association.
+
+![Addition complete](../img/rgcomplete.png "Addition complete")
