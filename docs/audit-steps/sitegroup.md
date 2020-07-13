@@ -21,4 +21,6 @@ Add existing racks to groups. If this is initial site setup racks can be added t
 
 Result of rack group addition and association.
 
+![Rack roup Added](../img/rgadded.png "Added")
+
 ![Addition complete](../img/rgcomplete.png "Addition complete")
