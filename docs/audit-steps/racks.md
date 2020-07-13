@@ -26,7 +26,7 @@ Each rack has two faces (front and rear) on which devices can be mounted. Rail-t
 
 ## Rack Groups
 
-Racks can be arranged into groups. As with sites, how you choose to designate rack groups will depend on the nature of the data center.
+Racks can be arranged into groups. As with sites, how you choose to designate rack groups will depend on the nature of the data center. Rack Groups are utilized to create multi- tenanted sites with racks being grouped into site specific naming conventions. Site and rack group instructions are found [here](./sitegroup.md).
 
 !!! Audit_Step
     Select the create button to submit the record.
