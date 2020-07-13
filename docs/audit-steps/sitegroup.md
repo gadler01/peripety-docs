@@ -11,7 +11,9 @@ Sites are data center facilities which are often multi-tenanted.  Tenants are of
 ## Add Rack Group 
 Add and assign rack group appropriately
 ![Add Rack Group](../img/crg.png "Add Rack Group")
+- Add rack group as follows:
+![Action to add group(../img/addgrpaction.png "Adding a Rack Group")
 
-## Add Rack Group 
-Add and assign rack group appropriately
-![Add Rack Group](../img/crg.png "Add Rack Group")
+## Add Something Else
+Add Something here
+![Add Picture](../img/picture.png "Add a picturep")
