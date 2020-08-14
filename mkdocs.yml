@@ -3,7 +3,7 @@ theme: readthedocs
 
 pages:
     - Introduction: 'index.md'
-    
+
     - Audit Steps:
         - Sites and Rack Groups: 'audit-steps/sitegroup.md'
         - Racks: 'audit-steps/racks.md'
@@ -11,20 +11,24 @@ pages:
         - Manufacturer Library: 'audit-steps/manufacturers.md'
         - Device Type Library: 'audit-steps/device-types.md'
         - Cables: 'audit-steps/cables.md'
-        
-    - Cable and Connector Information:   
+
+    - Cable and Connector Information:
         - Cable Identification: 'audit-steps/cable_definitions.md'
         - Cable Pinouts: 'audit-steps/pinouts.md'
-    
+
     - Connector Identification:
         - Connectors: 'audit-steps/connectors.md'
         - Power: 'audit-steps/power.md'
-        
+
     - Field Definitions:
-    
       - Site: 'field-definitions/site.md'
       - Rack: 'field-definitions/rack.md'
       - Device: 'field-definitions/device.md'
+
+    - Administration:
+      - Adding Users: 'administration/users.md'
+      - User Groups: 'administration/user_groups.md'
+      - Object Based Permisions: 'administration/object_based_permissions.md'
 
 markdown_extensions:
     - admonition:
