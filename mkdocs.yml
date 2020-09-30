@@ -30,5 +30,11 @@ pages:
       - User Groups: 'administration/user_groups.md'
       - Object Based Permisions: 'administration/object_based_permissions.md'
 
+    - Import:
+      - Data Transfer: 'import/data_transerf.md'
+      - Device Type Import: 'import/device_type_import.md'
+      - Rack and Device Import: 'import/rack_device_import.md'
+      - Interface and Cable Import: 'import/interface_cable_import.md'
+
 markdown_extensions:
     - admonition:
