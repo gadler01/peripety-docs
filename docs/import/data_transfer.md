@@ -2,7 +2,7 @@
 
 ## Put Data Into Import Helper Spreadsheet
 
-The first step of our import is to transfer the data provided by the client into our import helper spreadsheet in order to break the data down into its constituent parts. We ask the client to provide us with a device and a cable data sheet. This is the easiest way for them to provide us with the information we need to provide insights and estimate costs.  
+The first step of our import is to transfer the data provided by the client into our import helper spreadsheet in order to break the data down into its constituent parts. We ask the client to provide us with a device and a cable data sheet.
 
 ![Client Data Request Template](../img/client_data_request_template.png)
 
