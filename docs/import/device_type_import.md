@@ -14,11 +14,11 @@ Search the manufacturer page for the manufacturer name.
 
 ![Manufacturer Search](../img/manufacturer_search.png)
 
-For manufacturers that already exist in Peripety, check the spelling and formatting and change data in the device tab to reflect Peripetys models.
+For manufacturers that already exist in Peripety, check the spelling and formatting and change data in the device tab to reflect Peripety's models.
 
 ![Manufacturer Find and Replace](../img/manufacturer_find_replace.png)
 
-For manufacturers not in peripety, add them to the database and change the data in the device tab to reflect Peripetys models and spelling.
+For manufacturers not in Peripety, add them to the database and change the data in the device tab to reflect Peripety's models and spelling.
 
 ![Manufacturer Add](../img/manufacturer_add.png)
 
@@ -40,10 +40,10 @@ Search the device type page for the full model name by using ctrl + F or the sea
 
 ![Model Search](../img/model_search.png)
 
-For Models that already exist in Peripety, check the spelling, formatting, and U height and change the data in the device tab to reflect Peripetys models.
+For Models that already exist in Peripety, check the spelling, formatting, and U height and change the data in the device tab to reflect Peripety's models.
 
 ![Model Find and Replace](../img/model_find_replace.png)
 
-For Models not in peripety, add them to the database and change the data in the device tab to reflect Peripetys models and spelling.
+For Models not in peripety, add them to the database and change the data in the device tab to reflect Peripety's models and spelling.
 
 ![Model Add](../img/model_add.png)
