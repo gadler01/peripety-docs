@@ -4,7 +4,7 @@
 
 Navigate to the rack tab of the import helper spreadsheet.
 
-![Rack List](../img/rack_list.png)
+![Rack List](../img/import/rack_list.png)
 
 For each rack add the required information:
 
@@ -14,17 +14,17 @@ For each rack add the required information:
 
 Copy the rack tab into a new excel spreadsheet and save it as a csv file.
 
-![Rack CSV](../img/rack_csv.png)
+![Rack CSV](../img/import/rack_csv.png)
 
 Open the file with notepad, copy it into the rack import page on Peripety, and Select the import button.
 
-![Rack Import](../img/rack_import.png)
+![Rack Import](../img/import/rack_import.png)
 
 ## Device
 
 Navigate to the device tab of the import helper spreadsheet.
 
-![Device List](../img/device_list.png)
+![Device List](../img/import/device_list.png)
 
 For each Device add the required information:
 
@@ -34,8 +34,8 @@ For each Device add the required information:
 
 Copy the Device tab into a new excel spreadsheet and save it as a csv file.
 
-![Device CSV](../img/device_csv.png)
+![Device CSV](../img/import/device_csv.png)
 
 Open the file with notepad, copy it into the device import page on Peripety, and Select the import button.
 
-![Device Import](../img/device_import.png)
+![Device Import](../img/import/device_import.png)
