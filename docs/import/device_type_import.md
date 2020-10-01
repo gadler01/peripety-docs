@@ -32,7 +32,7 @@ Open Peripety's device type table alongside the spreadsheets device_type tab.
 
 ![Model Split Screen](../img/model_split_screen.png)
 
-Oftentimes the model name provided by the client is not the full model name so it is important to research the correct name if you don't know what the full name is off hand.
+Often the model name provided by the client is not the full model name so it is important to research the correct name if you don't know what the full name is off hand.
 
 ![Check Model Name](../img/check_model_name.png)
 
@@ -44,6 +44,6 @@ For device type models that already exist in Peripety, check the spelling, forma
 
 ![Model Find and Replace](../img/model_find_replace.png)
 
-For models not in peripety, add them to the database and change the data in the device tab to reflect Peripety's models and spelling.
+For models not in Peripety, add them to the database and change the data in the device tab to reflect Peripety's models and spelling.
 
 ![Model Add](../img/model_add.png)
