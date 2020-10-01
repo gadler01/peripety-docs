@@ -28,7 +28,7 @@ Navigate to the device tab of the import helper spreadsheet.
 
 For each Device add the required information:
 
-* site: Which site the racks are in.
+* site: Which site the devices are in.
 * status: Operational status. If unknown, put active.
 * event: Move event. If unknown, put followup.
 
