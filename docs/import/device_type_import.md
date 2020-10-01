@@ -10,9 +10,7 @@ Open Peripetys manufacturer table alongside the device_type tab and compare the 
 
 ![Manufacturer Split Screen](../img/import/manufacturer_split_screen.png)
 
-Search the manufacturer page for the manufacturer name.
-
-![Manufacturer Search](../img/import/manufacturer_search.png)
+Search the manufacturer page for the manufacturer names listed under manufacturer.
 
 For manufacturers that already exist in Peripety, check the spelling and formatting and change data in the device tab to reflect existing Peripety data.
 
@@ -24,9 +22,9 @@ For manufacturers not in Peripety, add them to the database and change the data 
 
 ## Device Types/Models
 
-Locate the model list.
+Locate the model list in the device_type tab of the import helper spreadsheet.
 
-![Model List](../img/import/model_list.png)
+![Model List](../img/import/manufacturer.png)
 
 Open Peripety's device type table alongside the spreadsheets device_type tab.
 
