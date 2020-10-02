@@ -14,11 +14,19 @@ For each rack add the required information:
 
 Copy the rack tab into a new excel spreadsheet and save it as a csv file.
 
-![Rack CSV](../img/import/rack_csv.png)
+![Rack CSV](../img/import/rack_csv_1.png)
+
+![Rack CSV](../img/import/rack_csv_2.png)
+
+Navigate to the rack import tab of Peripety
+
+![Rack Import Tab](../img/import/rack_import_tab.png)
 
 Open the file with notepad, copy it into the rack import page on Peripety, and Select the import button.
 
-![Rack Import](../img/import/rack_import.png)
+![Rack Import](../img/import/rack_import_1.png)
+
+![Rack Import](../img/import/rack_import_2.png)
 
 ## Device
 
@@ -32,9 +40,17 @@ For each Device add the required information:
 * status: Operational status. If unknown, put active.
 * event: Move event. If unknown, put followup.
 
-Copy the Device tab into a new excel spreadsheet and save it as a csv file.
+Copy the Device tab into a new excel spreadsheet.
 
-![Device CSV](../img/import/device_csv.png)
+![Device CSV](../img/import/device_csv_1.png)
+
+Remove the verbose headers in the second row.
+
+![Device Delete](../img/import/device_delete.png)
+
+Save the data as a csv file.
+
+![Device CSV](../img/import/device_csv_2.png)
 
 Open the file with notepad, copy it into the device import page on Peripety, and Select the import button.
 
