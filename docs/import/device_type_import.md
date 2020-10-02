@@ -24,7 +24,7 @@ For manufacturers not in Peripety, add them to the database and change the data 
 
 Locate the model list in the device_type tab of the import helper spreadsheet.
 
-![Model List](../img/import/manufacturer.png)
+![Model List](../img/import/manufacturer_list.png)
 
 Open Peripety's device type table alongside the spreadsheets device_type tab.
 
