@@ -6,7 +6,7 @@ The first step of importing the data into Peripety is to update the device type 
 
 ![Manufacturer List](../img/import/manufacturer_list.png)
 
-Open Peripetys manufacturer table alongside the device_type tab and compare the data.
+Open Peripety's manufacturer table alongside the device_type tab and compare the data.
 
 ![Manufacturer Split Screen](../img/import/manufacturer_split_screen.png)
 
@@ -16,7 +16,7 @@ For manufacturers that already exist in Peripety, check the spelling and formatt
 
 ![Manufacturer Find and Replace](../img/import/manufacturer_find_replace.png)
 
-For manufacturers not in Peripety, add them to the database and change the data in the device tab to reflect existin Peripety models and spelling.
+For manufacturers not in Peripety, add them to the database and change the data in the device tab to reflect existing Peripety models and spelling.
 
 ![Manufacturer Add](../img/import/manufacturer_add.png)
 
@@ -38,7 +38,7 @@ Search the device type page for the full model name by using ctrl + F or the sea
 
 ![Model Search](../img/import/model_search.png)
 
-For device type models that already exist in Peripety, check the spelling, formatting, and U height and change the data in the device tab to reflect Peripety's models.
+For existing device type models, check the spelling, formatting, and U height and change the data in the device tab to reflect Peripety's models.
 
 ![Model Find and Replace](../img/import/model_find_replace.png)
 
