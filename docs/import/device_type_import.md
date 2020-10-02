@@ -42,6 +42,6 @@ For existing device type models, check the spelling, formatting, and U height an
 
 ![Model Find and Replace](../img/import/model_find_replace.png)
 
-For models not in Peripety, add them to the database and change the data in the device tab to reflect Peripety's models and spelling. See the [Device type guide](device-types.md) for further information on adding device types.
+For models not in Peripety, add them to the database and change the data in the device tab to reflect Peripety's models and spelling. See the [Device type guide](../audit-steps/device-types.md) for further information on adding device types.
 
 ![Model Add](../img/import/model_add.png)
