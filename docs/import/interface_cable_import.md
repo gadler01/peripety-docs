@@ -17,17 +17,25 @@ The quick select options for type are:
 * Telco
 * Serial
 
-For other interface options reference the interface import page of Peripety.
+This should be decided by referencing the cable type for each port.
 
-![Interface Type List](../img/import/interface_type_list.png)
+For other interface type options reference the csv field options section of the interface import page of Peripety.
+
+![Interface Type List](../img/import/interface_type_list_1.png)
+
+![Interface Type List](../img/import/interface_type_list_2.png)
 
 Copy the A side and B side information into a new excel spreadsheet and save it as a csv file.
 
-![Interface CSV](../img/import/interface_csv.png)
+![Interface CSV](../img/import/interface_csv_1.png)
 
-Open the file with notepad, copy it into the rack import page on Peripety, and Select the import button.
+![Interface CSV](../img/import/interface_csv_2.png)
 
-![Interface Import](../img/import/interface_import.png)
+Open the file with notepad, copy it into the interface import page on Peripety, and select the import button.
+
+![Interface Import](../img/import/interface_import_1.png)
+
+![Interface Import](../img/import/interface_import_2.png)
 
 ## Cable
 
