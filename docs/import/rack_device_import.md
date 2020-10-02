@@ -22,7 +22,7 @@ Navigate to the rack import tab of Peripety
 
 ![Rack Import Tab](../img/import/rack_import_tab.png)
 
-Open the file with notepad, copy it into the rack import page on Peripety, and Select the import button.
+Open the csv file with notepad, copy it into the rack import page on Peripety, and Select the import button.
 
 ![Rack Import](../img/import/rack_import_1.png)
 
@@ -52,6 +52,12 @@ Save the data as a csv file.
 
 ![Device CSV](../img/import/device_csv_2.png)
 
-Open the file with notepad, copy it into the device import page on Peripety, and Select the import button.
+Navigate to the device import tab of Peripety
 
-![Device Import](../img/import/device_import.png)
+![Device Import Tab](../img/import/device_import_tab.png)
+
+Open the csv file with notepad, copy it into the device import page on Peripety, and Select the import button.
+
+![Device Import](../img/import/device_import_1.png)
+
+![Device Import](../img/import/device_import_2.png)
