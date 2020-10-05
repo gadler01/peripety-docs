@@ -17,9 +17,9 @@ The quick select options for type are:
 * Telco
 * Serial
 
-This should be decided by referencing the cable type for each port.
+This should be decided by referring to the cable type for each port.
 
-For other interface type options reference the csv field options section of the interface import page of Peripety.
+For other interface type options, refer to the csv field options section of the interface import page of Peripety.
 
 ![Interface Type List](../img/import/interface_type_list_1.png)
 
@@ -43,7 +43,7 @@ Navigate to the cable tab of the import helper spreadsheet.
 
 ![Cable List](../img/import/cable_list.png)
 
-Add the cable type if it is required. For the cable type options reference the cable import page of Peripety.
+Make any corrections necessary to align the cable types provided by the client with the cable types in Peripety. For the cable type options, refer to the csv field options section of the cable import page of Peripety.
 
 ![Cable Type List](../img/import/cable_type_list.png)
 
