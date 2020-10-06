@@ -45,12 +45,24 @@ Navigate to the cable tab of the import helper spreadsheet.
 
 Make any corrections necessary to align the cable types provided by the client with the cable types in Peripety. For the cable type options, refer to the csv field options section of the cable import page of Peripety.
 
-![Cable Type List](../img/import/cable_type_list.png)
+![Cable Type List](../img/import/cable_type_list_1.png)
 
-Copy the cable tab into a new excel spreadsheet and save it as a csv file.
+![Cable Type List](../img/import/cable_type_list_2.png)
 
-![Cable CSV](../img/import/cable_csv.png)
+Copy the cable tab into a new excel spreadsheet.
 
-Open the file with notepad, copy it into the rack import page on Peripety, and Select the import button.
+![Cable CSV](../img/import/cable_csv_1.png)
 
-![Cable Import](../img/import/cable_import.png)
+Remove the verbose headers in the second row.
+
+![Cable Delete](../img/import/cable_delete.png)
+
+Save the data as a csv file.
+
+![Cable CSV](../img/import/cable_csv_2.png)
+
+Open the file with notepad, copy it into the rack import page on Peripety, and select the import button.
+
+![Cable Import](../img/import/cable_import_1.png)
+
+![Cable Import](../img/import/cable_import_2.png)

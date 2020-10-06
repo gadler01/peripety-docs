@@ -56,7 +56,7 @@ Navigate to the device import tab of Peripety
 
 ![Device Import Tab](../img/import/device_import_tab.png)
 
-Open the csv file with notepad, copy it into the device import page on Peripety, and Select the import button.
+Open the csv file with notepad, copy it into the device import page on Peripety, and select the import button.
 
 ![Device Import](../img/import/device_import_1.png)
 
