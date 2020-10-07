@@ -13,3 +13,5 @@ Open the import helper spreadsheet alongside the client data you have been provi
 Transfer the data into the import helper spreadsheet by copy and pasting the information into its respective rows in the device and cable tabs.
 
 ![Data Transfer](../img/import/data_transfer.png)
+
+When going through the upload process the columns with green headers are required, the columns with blue headers are optional, and the columns with red headers are context data that should not be uploaded but can be useful to fill out.
