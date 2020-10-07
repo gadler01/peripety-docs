@@ -10,6 +10,6 @@ Open the import helper spreadsheet alongside the client data you have been provi
 
 ![Split Screen](../img/import/split_screen.png)
 
-Transfer the data into the import helper spreadsheet by pasting the information into its respective rows in the device and cable tabs.
+Transfer the data into the import helper spreadsheet by copy and pasting the information into its respective rows in the device and cable tabs.
 
 ![Data Transfer](../img/import/data_transfer.png)
