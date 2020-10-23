@@ -35,6 +35,7 @@ pages:
       - Device Type Import: 'import/device_type_import.md'
       - Rack and Device Import: 'import/rack_device_import.md'
       - Interface and Cable Import: 'import/interface_cable_import.md'
+      - Errors: 'import/common_errors.md'
 
 markdown_extensions:
     - admonition:
