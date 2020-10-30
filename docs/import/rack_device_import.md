@@ -40,6 +40,8 @@ For each Device add the required information:
 * status: Operational status. If unknown, put active.
 * event: Move event. If unknown, put followup.
 
+For any information that does not belong in any of the other fields that is important to capture in an audit, like devices mounted in strange orientations, make note of it in the comments field. 
+
 Copy the Device tab into a new excel spreadsheet.
 
 ![Device CSV](../img/import/device_csv_1.png)
