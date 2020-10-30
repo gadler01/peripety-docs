@@ -27,7 +27,7 @@ pages:
 
     - Administration:
       - Adding Users: 'administration/users.md'
-      - User Groups: 'administration/user_groups.md'
+      - Audit Groups: 'administration/audit_groups.md'
       - Object Based Permisions: 'administration/object_based_permissions.md'
 
     - Import:

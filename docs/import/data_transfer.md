@@ -14,4 +14,4 @@ Transfer the data into the import helper spreadsheet by copy and pasting the inf
 
 ![Data Transfer](../img/import/data_transfer.png)
 
-When going through the upload process the columns with green headers are required, the columns with blue headers are optional, and the columns with red headers are context data that should not be uploaded but can be useful to fill out.
+When going through the upload process the columns with green headers are required, the columns with blue headers are optional, and the columns with red headers are context data that should not be uploaded but is useful to fill out to help with populating other fields.
