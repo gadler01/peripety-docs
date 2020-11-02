@@ -30,11 +30,11 @@ Select the edit button
 
 Scroll to the constraints section at the bottom of the edit screen.
 
-![Edit permission](../img/accounts-permissions/edit_2.png)
+![Edit permission](../img/accounts-permissions/p_edit_2.png)
 
 Type the site name exactly how it appears in Peripety into the text area where the previous site name appears and submit the change.
 
-![Edit permission](../img/accounts-permissions/edit_3.png)
+![Edit permission](../img/accounts-permissions/p_edit_3.png)
 
 Repeat this for the rest of the permissions making sure to only thing being changed is the site name in the constraints section.
 

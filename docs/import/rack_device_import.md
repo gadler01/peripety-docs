@@ -22,7 +22,7 @@ Navigate to the rack import tab of Peripety
 
 ![Rack Import Tab](../img/import/rack_import_tab.png)
 
-Open the csv file with notepad, copy it into the rack import page on Peripety, and Select the import button.
+Open the csv file with notepad or a text editor of your choice, copy it into the rack import page on Peripety, and Select the import button.
 
 ![Rack Import](../img/import/rack_import_1.png)
 
@@ -40,7 +40,9 @@ For each Device add the required information:
 * status: Operational status. If unknown, put active.
 * event: Move event. If unknown, put followup.
 
-For any information that does not belong in any of the other fields that is important to capture in an audit, like devices mounted in strange orientations, make note of it in the comments field. 
+For any information that does not belong in any of the other fields that is important to capture in an audit, like devices mounted in strange orientations, make note of it in the comments field.
+
+If you are dealing with a large data set, it is recommended that you break the data into smaller chunks before going through the import process, importing each chunk individually. Breaking the devices up by manufacturer is a good way to go about this.
 
 Copy the Device tab into a new excel spreadsheet.
 
@@ -58,7 +60,7 @@ Navigate to the device import tab of Peripety
 
 ![Device Import Tab](../img/import/device_import_tab.png)
 
-Open the csv file with notepad, copy it into the device import page on Peripety, and select the import button.
+Open the csv file with notepad or a text editor of your choice, copy it into the device import page on Peripety, and select the import button.
 
 ![Device Import](../img/import/device_import_1.png)
 

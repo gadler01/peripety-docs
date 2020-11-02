@@ -31,7 +31,7 @@ Copy the A side and B side information into a new excel spreadsheet and save it 
 
 ![Interface CSV](../img/import/interface_csv_2.png)
 
-Open the file with notepad, copy it into the interface import page on Peripety, and select the import button.
+Open the file with notepad or a text editor of your choice, copy it into the interface import page on Peripety, and select the import button.
 
 ![Interface Import](../img/import/interface_import_1.png)
 
@@ -61,7 +61,7 @@ Save the data as a csv file.
 
 ![Cable CSV](../img/import/cable_csv_2.png)
 
-Open the file with notepad, copy it into the rack import page on Peripety, and select the import button.
+Open the file with notepad or a text editor of your choice, copy it into the rack import page on Peripety, and select the import button.
 
 ![Cable Import](../img/import/cable_import_1.png)
 
