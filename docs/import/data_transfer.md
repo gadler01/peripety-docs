@@ -4,8 +4,6 @@
 
 The first step of our import is to transfer the data provided by the client into our import helper spreadsheet in order to break the data down into its constituent parts. We ask the client to provide us with a device and a cable data sheet.
 
-![Client Data Request Template](../img/import/client_data_request_template.png)
-
 Open the import helper spreadsheet alongside the client data you have been provided.
 
 ![Split Screen](../img/import/split_screen.png)
