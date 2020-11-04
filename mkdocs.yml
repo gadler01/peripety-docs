@@ -31,6 +31,7 @@ pages:
       - Object Based Permisions: 'administration/object_based_permissions.md'
 
     - Import:
+      - Site and Tenant Set Up: 'import/site_tenant.md'
       - Data Transfer: 'import/data_transfer.md'
       - Device Type Import: 'import/device_type_import.md'
       - Rack and Device Import: 'import/rack_device_import.md'
