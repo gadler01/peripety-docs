@@ -39,3 +39,7 @@ Type the site name exactly how it appears in Peripety into the text area where t
 Repeat this for the rest of the permissions making sure to only thing being changed is the site name in the constraints section.
 
 Once the permissions have been changed, change the audit group name to reflect the site/project the group is working on.
+
+# Client Access
+
+When a client requests access to Peripety we must ensure that they are restricted to only viewing the data for their sites. The permissions, once created, will closely resemble the audit access permissions just with read only access. Once the client access group has been created it can be associated with any number accounts in the user section. Contact Hans to make a client access group.
