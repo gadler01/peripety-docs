@@ -32,7 +32,7 @@ The Stackwise cable is like an extension of the switching fabric of the switches
 
 Here is a picture of some arbitrary generic connectors which may be helpful.
 
-![Types of cables and USB](../img/GenericUSB.png)
+![Types of cables and USB](../img/GenericUSB.jpg)
 
 ## Further reading:
 
