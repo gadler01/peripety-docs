@@ -28,6 +28,12 @@ Switches that support Stackwise use a special stacking cable to connect the swit
 
 The Stackwise cable is like an extension of the switching fabric of the switches. When an Ethernet frame has to be moved from one physical switch to another, the Stackwise “loop” is used. The advantage of using a cabled loop is that you can remove one switch from the stack, the loop will be broken but the stack will keep working.
 
+## Sundry generic connection types.
+
+Here is a picture of some arbitrary generic connectors which may be helpful.
+
+![Types of cables and USB](../img/GenericUSB.png)
+
 ## Further reading:
 
 [Wikipedia - SFP ](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver)
