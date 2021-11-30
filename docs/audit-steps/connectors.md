@@ -38,6 +38,8 @@ Some arbitrary generic connectors which may be helpful.
 
 [Wikipedia - SFP ](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver)
 
+[Wikipedia - SAS definitions and connectors ](https://en.wikipedia.org/wiki/Serial_Attached_SCSI)
+
 [Cables To Go Tranceivers](https://www.cablestogo.com/category/data-com-transceivers)
 
 
